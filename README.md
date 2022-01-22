@@ -6,6 +6,6 @@ We constructed the fire instance segmentation dataset and a large amount of unla
 </div>
   
 <div align=center>
-<img src="https://github.com/pomeloliv/Fire-Instance-Segmentation-Dataset/blob/main/example2.png" width="50%" height="50%"/>
+<img src="https://github.com/pomeloliv/Fire-Instance-Segmentation-Dataset/blob/main/example2.png" width="60%" height="60%"/>
 </div>
 
