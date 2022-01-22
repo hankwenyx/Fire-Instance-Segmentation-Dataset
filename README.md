@@ -4,7 +4,7 @@ We constructed the fire instance segmentation dataset and a large amount of unla
 <div align=center>
 <img src="https://github.com/pomeloliv/Fire-Instance-Segmentation-Dataset/blob/main/example1.png" />
 </div>
-
+  
 <div align=center>
 <img src="https://github.com/pomeloliv/Fire-Instance-Segmentation-Dataset/blob/main/example2.png" />
 </div>
