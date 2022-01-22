@@ -1,6 +1,11 @@
 # Fire-Instance-Segmentation-Dataset
 We constructed the fire instance segmentation dataset and a large amount of unlabeled data.All data were obtained from public images and public datasets on the Internet.  
   
-<center>![](https://github.com/pomeloliv/Fire-Instance-Segmentation-Dataset/blob/main/example1.png)</center>  
-  
-<center>![](https://github.com/pomeloliv/Fire-Instance-Segmentation-Dataset/blob/main/example2.png)</center>
+<div align=center>
+<img src="https://github.com/pomeloliv/Fire-Instance-Segmentation-Dataset/blob/main/example1.png" />
+</div>
+
+<div align=center>
+<img src="https://github.com/pomeloliv/Fire-Instance-Segmentation-Dataset/blob/main/example2.png" />
+</div>
+
