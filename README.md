@@ -1,6 +1,6 @@
 # Fire-Instance-Segmentation-Dataset
-We constructed the fire instance segmentation dataset and a large amount of unlabeled data.All data were obtained from public images and public datasets on the Internet.  
-__These data we collect are for research purposes only and will not be used for any commercial purposes.__  
+### We constructed the fire instance segmentation dataset and a large amount of unlabeled data.All data were obtained from public images and public datasets on the Internet.  
+__These data we collect are used for research purposes only and will not be used for any commercial purposes.__  
 ***  
 Some samples of unlabeled data are shown below
 <div align=center>
